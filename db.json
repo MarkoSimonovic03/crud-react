@@ -1,0 +1,34 @@
+{
+  "users": [
+      {
+        "id": "1a2b",
+        "name": "John Doe",
+        "sport": "Basketball",
+        "nationality": "USA"
+      },
+      {
+        "id": "2c3d",
+        "name": "Emma Johnson",
+        "sport": "Tennis",
+        "nationality": "Canada"
+      },
+      {
+        "id": "3d4e",
+        "name": "Lucas Smith",
+        "sport": "Football",
+        "nationality": "England"
+      },
+      {
+        "id": "4e5f",
+        "name": "Sophia Davis",
+        "sport": "Swimming",
+        "nationality": "Australia"
+      },
+      {
+        "id": "5f6g",
+        "name": "James Brown",
+        "sport": "Golf",
+        "nationality": "Scotland"
+      }   
+  ]
+}
